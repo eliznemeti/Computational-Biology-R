@@ -1,0 +1,9 @@
+﻿species,body_mass,,Calc,Result
+Blackbird,93.88,,Mean,95.77
+Blackbird,91.85,,Median,95.59
+Blackbird,95.15,,SD,2.577324
+Blackbird,96.03,,Max,99.18
+Blackbird,99.18,,Min,91.85
+Blackbird,97.35,,IQR,3.83
+Blackbird,98.85,,,
+Blackbird,93.9,,,

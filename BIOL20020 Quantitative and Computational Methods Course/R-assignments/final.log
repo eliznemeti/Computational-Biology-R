@@ -1,0 +1,29 @@
+PLINK v1.90b6.18 64-bit (16 Jun 2020)
+Options in effect:
+  --bfile allsamples
+  --keep-fam pop1.txt
+  --make-bed
+  --out final
+
+Hostname: bp1-login01.data.bp.acrc.priv
+Working directory: /work/tm18657/pcadapt
+Start time: Thu Apr 15 11:01:12 2021
+
+Random number seed: 1618480872
+385421 MB RAM detected; reserving 192710 MB for main workspace.
+52783 variants loaded from .bim file.
+2113 people (413 males, 200 females, 1500 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to final.nosex .
+704 phenotype values loaded from .fam.
+--keep-fam: 113 people remaining.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 113 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.940858.
+52783 variants and 113 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to final.bed + final.bim + final.fam ... done.
+
+End time: Thu Apr 15 11:01:12 2021
